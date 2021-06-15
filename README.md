@@ -1,0 +1,2 @@
+# MoodDetection
+It is often said that robots don’t have emotions, while that technically stands true to this day, we are progressing towards an age where robots can now recognize human emotions and respond to those emotions accordingly. Using Computer Vision and Machine Learning, I created a python script that can recognize human emotions and act as a friend to help understand what we are actually feeling.
